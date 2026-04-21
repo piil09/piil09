@@ -16,11 +16,11 @@
 ## 👋 About Me
 
 - 💼 **Fullstack Web Developer**
-- 🏢 Working at **Wahana Makmur Sejati**
+- 🏢 Student at **University of Brawijaya**
 - 🌱 Currently learning **Web Developer, Data Analysis and IOT Developer**
 - 🤝 Open for collaboration & real-world projects
 - 🌐 Portfolio → **http://indrapratama.biz.id/**
-- 📫 Email → **indraridho08@gmail.com**
+- 📫 Email → **muhgavril@gmail.com**
 
 ---
 
