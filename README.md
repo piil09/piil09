@@ -2,13 +2,13 @@
 <!-- ===================== -->
 <!-- 🔥 DARK ANIMATED HEADER -->
 <!-- ===================== -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=230&section=header&text=Indra%20Pratama&fontSize=42&fontColor=e5e7eb&animation=fadeIn&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=230&section=header&text=Gavril%Muhammad&fontSize=42&fontColor=e5e7eb&animation=fadeIn&fontAlignY=35)
 
 <!-- ===================== -->
 <!-- 🧠 TYPING ANIMATION -->
 <!-- ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=22c55e&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Data+Analyst;Laravel+%7C+CakePHP+%7C+React;Build+Clean+%26+Scalable+Systems">
+  <img src="https://readme-typing-svg.herokuapp.com?color=22c55e&center=true&vCenter=true&width=600&lines=UI+UX+Designer;Web+Developer;Figma+%7C+Node+%7C+Laravel;Build+Clean+%26+Scalable+Systems">
 </p>
 
 ---
@@ -17,9 +17,8 @@
 
 - 💼 **Fullstack Web Developer**
 - 🏢 Student at **University of Brawijaya**
-- 🌱 Currently learning **Web Developer, Data Analysis and IOT Developer**
+- 🌱 Currently learning **Web Developer, UI UX Designer and IOT Developer**
 - 🤝 Open for collaboration & real-world projects
-- 🌐 Portfolio → **http://indrapratama.biz.id/**
 - 📫 Email → **muhgavril@gmail.com**
 
 ---
@@ -27,10 +26,10 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/indra-ridho-rizkian-pratama-298800341/" target="_blank">
+<a href="https://www.linkedin.com/in/gavril-m-6b3266319?utm_source=share_via&utm_content=profile&utm_medium=member_androi" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/indra.rrpratama/" target="_blank">
+<a href="https://www.instagram.com/gvrlmuh?igsh=MXNmc2l4bTF2cDd3Nw==" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=pink"/>
 </a>
 </p>
@@ -45,32 +44,17 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php)
 ![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=C++)
 
-### 💻 Backend
+### 💻 Programming
 ![Laravel](https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel)
-![CakePHP](https://img.shields.io/badge/CakePHP-111827?style=for-the-badge&logo=cakephp)
 ![Node](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js)
-![Django](https://img.shields.io/badge/Django-111827?style=for-the-badge&logo=django)
-
-### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
-![Nuxt](https://img.shields.io/badge/Nuxt-111827?style=for-the-badge&logo=nuxt)
-![Next](https://img.shields.io/badge/Next-111827?style=for-the-badge&logo=next.js)
-![StoryBook](https://img.shields.io/badge/StoryBook-111827?style=for-the-badge&logo=storyBook)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-111827?style=for-the-badge&logo=bootstrap)
-
-### 📊 Data
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas)
-![Seaborn](https://img.shields.io/badge/Seaborn-111827?style=for-the-badge&logo=python)
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql)
 
 ### ⚙ Tools
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma)
-![Arduino](https://img.shields.io/badge/Arduino-111827?style=for-the-badge&logo=arduino)
 ---
 
 ## 📊 GitHub Stats
