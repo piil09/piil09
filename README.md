@@ -2,7 +2,7 @@
 <!-- ===================== -->
 <!-- 🔥 DARK ANIMATED HEADER -->
 <!-- ===================== -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=230&section=header&text=Gavril%Muhammad&fontSize=42&fontColor=e5e7eb&animation=fadeIn&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=230&section=header&text=Gavril%20Muhammad&fontSize=42&fontColor=e5e7eb&animation=fadeIn&fontAlignY=35)
 
 <!-- ===================== -->
 <!-- 🧠 TYPING ANIMATION -->
